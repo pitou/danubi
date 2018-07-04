@@ -21,7 +21,7 @@ The result is what you can see here today, very little changed from the first ve
 
 Some examples
 ---
-<img src="https://raw.githubusercontent.com/pitou/danubi/master/images/samples.png" height="80">
+<img src="https://raw.githubusercontent.com/pitou/danubi/master/images/samples.png">
 
 Demo
 ---
