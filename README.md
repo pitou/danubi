@@ -22,6 +22,11 @@ The result is what you can see here today, very little changed from the first ve
 Some examples
 ---
 
+<img src="https://raw.githubusercontent.com/pitou/danubi/master/images/01.png" height="80">
+<img src="https://raw.githubusercontent.com/pitou/danubi/master/images/02.png" height="80">
+<img src="https://raw.githubusercontent.com/pitou/danubi/master/images/03.png" height="80">
+<img src="https://raw.githubusercontent.com/pitou/danubi/master/images/04.png" height="80">
+<img src="https://raw.githubusercontent.com/pitou/danubi/master/images/05.png" height="80">
 
 Demo
 ---
