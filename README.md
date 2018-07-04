@@ -19,6 +19,10 @@ I was thinking about a really simple **logo for my projects** featuring a bit of
 
 The result is what you can see here today, very little changed from the first version of the program.
 
+Some examples
+---
+
+
 Demo
 ---
 
@@ -32,3 +36,5 @@ Yes, as long as the [GNU GPL](https://raw.githubusercontent.com/pitou/danubi/mas
 I'd be very glad to be informed if you intend to modify and redistribute this program for any purpose.
 
 Please contact me at the following email address:
+
+![email](https://raw.githubusercontent.com/pitou/danubi/master/images/ppmail.jpg "Hidden Machines logo")
