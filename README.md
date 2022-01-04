@@ -6,13 +6,13 @@ What is it?
 
 **Danubi** is the name of the **bat/ghost-esque character** I created sometimes in May 2016. 
 
-This repository contains the **Processing program** you can execute to generate **random instances** of Danubi.
+This repository contains the **Processing and P5.js programs** you can execute to generate **random instances** of Danubi.
 
 With every click on the screen, a new **combination of body type and colors** will be generated.
 
 There are two types of Danubi bodies: one with **wings** and one without.
 
-Why it was created?
+Why was it created?
 ---
 
 I was thinking about a really simple **logo for my projects** featuring a bit of randomness, so I started writing some code in **Processing**.
@@ -26,7 +26,7 @@ Some examples
 Demo
 ---
 
-To see Danubi in action, please visit [pitouproject.com/danubi.html](https://pitouproject.com/danubi.html). 
+To see Danubi in action, please visit [the online version](https://pitou.it/danubi).
 
 Can anyone use the program or the logo for their projects? 
 ---
